@@ -1,7 +1,6 @@
 # Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
 
-```markdown
 # Um par de pandas na floresta
 
 ## 📒 Descrição
