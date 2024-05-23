@@ -17,16 +17,16 @@ Deixe-se encantar por esta imagem fotorrealista de dois pandas brincando em meio
 ## 🚀 Resultados
 As imagens geradas estão na pasta imagens 
 
-![Imagem de dois pandas](imagens\Default_Deixese_encantar_por_esta_imagem_fotorrealista_de_dois_0.jpg)
+![Imagem de dois pandas](imagens/Default_Deixese_encantar_por_esta_imagem_fotorrealista_de_dois_0.jpg)
 *PANDA NA FLORESTA*
 
-![Imagem de dois pandas](imagens\Default_Deixese_encantar_por_esta_imagem_fotorrealista_de_dois_1.jpg)
+![Imagem de dois pandas](imagens/Default_Deixese_encantar_por_esta_imagem_fotorrealista_de_dois_1.jpg)
 *PANDA NA FLORESTA*
 
-![Imagem de dois pandas](imagens\Default_Deixese_encantar_por_esta_imagem_fotorrealista_de_dois_2.jpg)
+![Imagem de dois pandas](imagens/Default_Deixese_encantar_por_esta_imagem_fotorrealista_de_dois_2.jpg)
 *PANDA NA FLORESTA*
 
-![Imagem de dois pandas](imagens\Default_Deixese_encantar_por_esta_imagem_fotorrealista_de_dois_3.jpg)
+![Imagem de dois pandas](imagens/Default_Deixese_encantar_por_esta_imagem_fotorrealista_de_dois_3.jpg)
 *PANDA NA FLORESTA*
 
 
